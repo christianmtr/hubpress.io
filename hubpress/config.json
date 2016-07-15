@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "christianmtr's blog --sistemas"
+    "title": "christianmtr's blog --sistemas",
+    "disqus": "christianmtr"
   },
   "socialnetwork": {
     "email": "christian.mtr@gmail.com",
