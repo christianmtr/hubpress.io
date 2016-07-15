@@ -6,6 +6,7 @@
   },
   "site": {
     "title": "christianmtr's blog --sistemas",
+    "postsPerPage": "5",
     "disqus": "christianmtr"
   },
   "socialnetwork": {
