@@ -1,0 +1,11 @@
+= Inteligencia Artificial
+:published-at: 2016-07-10
+:hp-tags: ia, algoritmos, geneticos
+
+Cuando en los años cuarenta se pusieron a funcionar las primeras computadoras (esos roperos de metal, llenos de bulbos) se les llamó “cerebros electrónicos”, ya que podían hacer sumas. Esto hizo imaginar a muchos: “Mañana las máquinas conversarán con nosotros”. Y entonces el cine, los dibujos animados y la televisión se poblaron de robots “inteligentísimos” —aunque de movimientos algo torpes— que acompañaban a los humanos en toda clase de mundos. Mientras los alumnos de cibernética seguían perforando tarjetas, en el cine la computadora HAL se ponía paranoica y tomaba la decisión de asesinar a los astronautas de la película 2001, Odisea del Espacio. +
+
+La industria de las computadoras no dejó de evolucionar y, de pronto, aquellos enormes aparatos con grandes cintas de carrete se volvieron pequeños y mucho más fáciles de operar. Un día ya tenían un monitor y un teclado para comunicarnos con sus circuitos. Al día siguiente aparecieron en nuestras casas las computadoras personales y hoy están por todos lados, volviéndose indispensables. Los niños de hoy viven en un mundo que, por lo menos en parte, la ciencia ficción imaginó hace 50 años. +
+
+== ¿Puede la inteligencia ser artificial?
+
+La inteligencia artificial (IA) puede definirse como el medio por el cual las computadoras, los robots y otros dispositivos realizan tareas que normalmente requieren de la inteligencia humana. Por ejemplo, la resolución de cierto tipo de problemas, la capacidad de discriminar entre distintos objetos o el responder a órdenes verbales. La IA agrupa un conjunto de técnicas que, mediante circuitos electrónicos y programas avanzados de computadora, busca imitar procedimientos similares a los procesos inductivos y deductivos del cerebro humano. Se basa en la investigación de las redes neuronales humanas y, a partir de ahí, busca copiar electrónicamente el funcionamiento del cerebro.
