@@ -7,7 +7,11 @@
   "site": {
     "title": "christianmtr's blog - sistemas++"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "christian.mtr@gmail.com",
+    "facebook": "",
+    "github": "christianmtr"
+  },
   "theme": {
     "name": "casper"
   }
