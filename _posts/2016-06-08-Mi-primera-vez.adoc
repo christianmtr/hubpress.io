@@ -1,6 +1,5 @@
 = Mi primera vez
 :published_at: 2016-06-08
-:hp-tags: Sistemas, informática
 
 Éste es mi primer post aquí de los que espero sean muchos en el futuro. +
 Mi intención es publicar información útil para todos, consejos de uso de software, herramienta o configuraciones.
