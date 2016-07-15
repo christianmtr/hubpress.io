@@ -9,3 +9,6 @@ La industria de las computadoras no dejó de evolucionar y, de pronto, aquellos 
 == ¿Puede la inteligencia ser artificial?
 
 La inteligencia artificial (IA) puede definirse como el medio por el cual las computadoras, los robots y otros dispositivos realizan tareas que normalmente requieren de la inteligencia humana. Por ejemplo, la resolución de cierto tipo de problemas, la capacidad de discriminar entre distintos objetos o el responder a órdenes verbales. La IA agrupa un conjunto de técnicas que, mediante circuitos electrónicos y programas avanzados de computadora, busca imitar procedimientos similares a los procesos inductivos y deductivos del cerebro humano. Se basa en la investigación de las redes neuronales humanas y, a partir de ahí, busca copiar electrónicamente el funcionamiento del cerebro.
+
+:hide-uri-scheme:
+http://www.comoves.unam.mx/numeros/articulo/2/la-inteligencia-artificial-hacia-donde-nos-lleva
