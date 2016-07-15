@@ -4,7 +4,9 @@
     "repositoryName": "christianmtr.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "christianmtr's blog - sistemas++"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "uno-zen"
